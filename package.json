@@ -1,0 +1,17 @@
+{
+  "name": "lerolero-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/mashebang/lerolero-api",
+  "author": "mashebang",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
