@@ -10,7 +10,6 @@ const generate = (id) => {
   }
 
   if (!!sentencesGroups[id]) {
-    
     return sentencesGroups[id]
       .reduce((sentence, currentPiece) => sentence + currentPiece[Math.floor(Math.random()*currentPiece.length)]
     , '');
