@@ -2,13 +2,13 @@
 
 ## instalation
 
-after cloning repo run this on root dir:
+after cloning this repo, run the following command on the root dir:
 
 ```bash
 yarn install
 ```
 
-and run with:
+and run the web server with:
 
 ```bash
 yarn start
