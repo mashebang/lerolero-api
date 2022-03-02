@@ -1,6 +1,6 @@
 # lerolero-api
 
-## instalation
+## installation
 
 after cloning this repo, run the following command on the root dir:
 
